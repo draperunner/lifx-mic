@@ -1,0 +1,5 @@
+lifxlan
+numpy
+pyalsaaudio
+pyaudio
+scipy
